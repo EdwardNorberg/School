@@ -1,2 +1,2 @@
 # School
-School projects
+A repository for all my school projects
